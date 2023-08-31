@@ -1,8 +1,9 @@
 [package]
 name = "translating-symbolic"
-version = "0.1.1"
+version = "0.1.2"
 description = "A program to translate symbolic sequences from a circle map with two branches to a circle map that is the first map repeated twice. Refer README."
 license = "GPL-3.0-or-later"
+readme = "README.md"
 edition = "2021"
 repository = "https://github.com/cloudsftp/translating-symbolic"
 

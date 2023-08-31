@@ -10,6 +10,12 @@ Get it via [`cargo`](https://rustup.rs/).
 cargo install translating-symbolic
 ```
 
+To install cargo, run
+
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
 ## Executing
 
 If installed via `cargo`, execute the command `translating-symbolic`.
